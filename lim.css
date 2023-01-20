@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://i.postimg.cc/T2jY35GW/background.jpg);
+     color: white;
+}
+
+.container {
+    width: 1000px;
+   text-align: center;
+}
+
+.logo {
+    width: 100px
+
+}
+.logotext {
+    color: rgb(47, 255, 75);
+}
+.riga1 {
+    background-color: rgb(64, 255, 47);
+    border: 1px solid black;
+    height: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.riga2 {
+    background-color: rgb(245, 193, 3);
+    border: 1px solid black;
+    height: 30px;
+    width: 450px;
+}
+.riga3 {
+    background-color:rgb(32, 250, 12);
+    border: 1px solid black;
+    height: 30px;
+    width: 800px;
+
+}
+.riga4 {
+    background-color: red;
+    border: 1px solid black;
+    height: 30px;
+    width: 300px;
+}
